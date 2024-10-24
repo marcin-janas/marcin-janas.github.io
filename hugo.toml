@@ -12,9 +12,6 @@ author = "Marcin Janas"
 info = "Gopher all the time and sometimes a DevOps Consultant"
 avatarurl = "https://avatars.githubusercontent.com/u/16039114?v=4"
 
-colorScheme = "auto"
-hidecolorschemetoggle = false
-
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
