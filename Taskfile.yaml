@@ -3,7 +3,7 @@ version: 3
 tasks:
   default:
     cmds:
-      - hugo
+      - hugo --gc --minify --baseURL marcin.janas.zone
     silent: true
 
   server:
