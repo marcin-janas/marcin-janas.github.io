@@ -1,0 +1,28 @@
+baseurl = "https://marcin.janas.zone"
+title = "Marcin Janas"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[markup.highlight]
+style = "github-light"
+
+[params]
+author = "Marcin Janas"
+info = "Gopher all the time and sometimes a DevOps Consultant"
+avatarurl = "https://avatars.githubusercontent.com/u/16039114?v=4"
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/marcin-janas"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 1
+url = "https://www.linkedin.com/in/marcin-janas"

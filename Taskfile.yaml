@@ -1,0 +1,11 @@
+version: 3
+
+tasks:
+  default:
+    cmds:
+      - hugo
+    silent: true
+
+  server:
+    cmds:
+      - hugo server -D
